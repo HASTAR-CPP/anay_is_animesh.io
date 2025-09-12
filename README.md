@@ -112,10 +112,11 @@ English (Fluent) | Hindi (Native) | Maithili (Native) | German (Basic)
 
 Interests
 
-Robotics | Gaming | Music | Travelling | Cooking | talking to my hubby chubby (highest priority)
+Robotics | Gaming | Music | Travelling | Cooking
 
 Contact Me
 
 📧 Email: [anayanimesh@gmail.com]
+🌐 Portfolio: [anay_is_animesh.io]
 💼 LinkedIn: [https://www.linkedin.com/in/animesh-bhardwaj-aa0118242/]
 📞 Phone: [+91 8440975794]
