@@ -1,4 +1,5 @@
-# Animesh Kumar Bhardwaj
+![DSCN0583](https://github.com/user-attachments/assets/e32073c0-830a-4074-92de-a77165c193f5)
+
 
 **B.Tech (CSE – Robotics & AI)**  
 Aspiring AI & Robotics Engineer passionate about solving real-world problems using C, Python, and Java.
