@@ -1,4 +1,4 @@
-![DSCN0583](https://github.com/user-attachments/assets/e32073c0-830a-4074-92de-a77165c193f5)
+![IMG_20250503_134632629](https://github.com/user-attachments/assets/98cc071a-261d-4978-9f8d-fad3b2fd52e6)
 
 
 **B.Tech (CSE – Robotics & AI)**  
