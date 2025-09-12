@@ -106,6 +106,6 @@ Robotics | Gaming | Music | Travelling | Cooking
 
 ## Contact
 
-📧 Email: [your.email@example.com]  
+📧 Email: [Anayanimesh@gmail.com]  
 🌐 Portfolio: [https://your-portfolio-url.com]  
-🔗 LinkedIn: [https://linkedin.com/in/your-profile]  
+🔗 LinkedIn: [https://www.linkedin.com/in/animesh-bhardwaj-aa0118242]  
