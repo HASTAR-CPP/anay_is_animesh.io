@@ -1,18 +1,18 @@
-Animesh Kumar Bhardwaj
+#Animesh Kumar Bhardwaj
 
-B.Tech (CSE – Robotics & AI)
-Aspiring AI & Robotics Engineer passionate about solving real-world problems using C, Python, and Java.
+##B.Tech (CSE – Robotics & AI)
+  Aspiring AI & Robotics Engineer passionate about solving real-world problems using C, Python, and Java.
 
-About Me
+###About Me
 
-I am currently pursuing a Bachelor’s in Computer Science Engineering with a specialization in Robotics and Artificial Intelligence at Manav Rachna University. My goal is to build intelligent systems using deep learning, computer vision, and embedded technologies.
-I am driven by curiosity, hands-on learning, and applying innovative solutions to practical problems in AI and robotics.
+    I am currently pursuing a Bachelor’s in Computer Science Engineering with a specialization in Robotics and Artificial Intelligence at Manav Rachna University. My goal is to build intelligent systems using deep learning, computer vision, and embedded technologies.
+    I am driven by curiosity, hands-on learning, and applying innovative solutions to practical problems in AI and robotics.
 
-Education
+###Education
 
-B.Tech in CSE (Robotics & Artificial Intelligence)
-Manav Rachna University, Faridabad, Haryana
-2022 – 2026 | CGPA: 6.5/10
+    B.Tech in CSE (Robotics & Artificial Intelligence)
+    Manav Rachna University, Faridabad, Haryana
+    2022 – 2026 | CGPA: 6.5/10
 
 Senior Secondary (CBSE – Science)
 St. Paul Senior Secondary School, Begusarai | 2021 | 69%
